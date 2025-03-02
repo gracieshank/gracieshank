@@ -7,12 +7,21 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
-<h1>Hello world</h1>
-<p1>How YOU doin?</p1>
+# Grace's Page
+<h1>Armadillos and the Great Wall</h1>
+<p1>Many animals are affected by the border wall. Included among them
+is the Armadillo.</p1>
 
+<p2>The wall limits their ability to find food, water, and mates.</p2>
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+<p3>A wall of just twelve inches can put a halt to their journey.</p3>
+
+<p4>Please consider sharing this page on social media so that
+we can do our best to bring this to the attention of our 
+government and make larger passage points for animals who need
+to cross the border.</p4>
+
+_Italics are pretty rad_
 
 </header>
 
@@ -23,20 +32,24 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-## Step 3: Customize your homepage
+## The Armadillo
 
-_Nice work setting the theme! :sparkles:_
+_What a cool animal! :sparkles:_
 
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
 
-### :keyboard: Activity: Create your homepage
+### Stuff to say 
 
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. A
+1. r
+1. m
+   1. a
+   2. d
+   3. i
+   4. l
+      1. l
+      1. o
+
+## How large is this?
 
 <footer>
 
@@ -46,9 +59,11 @@ You can customize your homepage by adding content to either an `index.md` file o
 -->
 
 ---
-
+<!--
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+-->
 
 </footer>
